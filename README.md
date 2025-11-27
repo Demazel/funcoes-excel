@@ -1,4 +1,4 @@
-link para a planilia: https://docs.google.com/spreadsheets/d/1NmfVQy066fiWdw_-Khsfzlr1xM7Ebt7qIKXG848ANK0/edit?usp=sharing
+link para a planilha: https://docs.google.com/spreadsheets/d/1NmfVQy066fiWdw_-Khsfzlr1xM7Ebt7qIKXG848ANK0/edit?usp=sharing
 
 Bem-vindo à planilha de como fazer consultas usando Excel!
 
