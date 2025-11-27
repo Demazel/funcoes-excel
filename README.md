@@ -8,7 +8,7 @@ Abaixo está uma explicação clara de cada uma dessas ferramentas e como elas p
 
 ---
 
-##🔍 PROCV – Procurando informações automaticamente
+## 🔍 PROCV – Procurando informações automaticamente
 
 O **PROCV** é uma das funções mais utilizadas no Excel e serve para **buscar informações em formato vertical**, trazendo automaticamente dados relacionados a um valor específico.
 
@@ -19,7 +19,7 @@ Estrutura:
 =PROCV(valor_procurado; tabela; número_da_coluna; FALSO)
 
 
-##🔢 CONT.SE – Contagens com critério
+## 🔢 CONT.SE – Contagens com critério
 
 A função CONT.SE permite contar quantas vezes um determinado critério aparece dentro de um intervalo.
 
@@ -27,7 +27,7 @@ Estrutura:
 =CONT.SE(intervalo; critério)
 
 
-##📊 3. MÉDIASE — Média Condicionada
+## 📊 3. MÉDIASE — Média Condicionada
 
 A função MÉDIASE calcula a média somente dos valores que atendem a um critério específico.
 
