@@ -58,6 +58,3 @@ Selecione as células desejadas
 Vá em Dados → Validação de Dados
 Escolha o tipo de regra (Lista, Número, Texto, etc.)
 Defina o critério e confirme
-
-Com PROCV, CONT.SE, MÉDIASE e Validação de Dados, você já consegue montar consultas completas, seguras e eficientes no Excel.
-Essas ferramentas ajudam a organizar informações, evitar erros e gerar análises confiáveis em qualquer planilha.
